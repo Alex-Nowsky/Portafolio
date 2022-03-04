@@ -122,12 +122,11 @@ h2{
     flex:1;
     margin: 0 auto;
     display: flex;
-    justify-content: inherit;
-    align-items: inherit;
-    height: inherit;
-    flex-wrap: inherit;
+    justify-content: space-around;
 }
-
+.social {
+    margin: 0 auto;
+}
 .social-link{
     display: inline-flex;
     font-size: 40px;
